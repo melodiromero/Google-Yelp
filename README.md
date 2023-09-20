@@ -80,7 +80,9 @@ Como marco de trabajo se sigue la metodología ágil en específico el scrum. Se
 - Documentación
 
 ## 5. Stack tecnológico
-Falta detallar
+- PySpark, {Python: Pandas, Matplotlib, Numpy} Para Extraccion y Transformacion.
+- SQL: Para la carga de la data normalizada.
+- Google Cloud: Deployment
 
 ## 6. Equipo de trabajo
 
