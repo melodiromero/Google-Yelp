@@ -8,10 +8,10 @@ steps:
       - --region=us-central1
       - --source=.
       - --trigger-http
-      - --runtime=python311
+      - --runtime=python39
       - --memory=128MB
       - --timeout=90
-      - --min-instances=1
+      - --min-instances=0
       - --max-instances=1
       - --security-level=secure-always
       - --ingress-settings=all
