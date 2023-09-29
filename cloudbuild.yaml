@@ -4,8 +4,8 @@ steps:
       - gcloud
       - functions
       - deploy
-      - hello_word
-      - --region=europe-central2
+      - hello_world
+      - --region=us-central1
       - --source=.
       - --trigger-http
       - --runtime=python311
@@ -16,4 +16,4 @@ steps:
       - --security-level=secure-always
       - --ingress-settings=all
       - --no-allow-unauthenticated
-      - --service-account=hello-word-functions-sa@evocative-hour-398618.iam.gserviceaccount.com
+      - --service-account=hello-world-funcions-sa@evocative-hour-398618.iam.gserviceaccount.com
