@@ -7,7 +7,7 @@ steps:
       - hello_world
       - --region=us-central1
       - --source=.
-        - --trigger-http
+      - --trigger-http
       - --runtime=python39
       - --memory=128MB
       - --timeout=90
