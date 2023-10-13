@@ -20,6 +20,7 @@ Para configurar la variable `AIRFLOW_UID`, en la interface grafica en el menu su
 
 Por ejemplo
 > key es AIRFLOW_UID
+
 > val es 50000
 
 ```
