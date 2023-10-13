@@ -1,49 +1,48 @@
 from datetime import timedelta, datetime
 
+from etl_python_task import *
+
 from airflow import DAG
 from airflow.operators.python import PythonOperator
+
+
+def print_versions():
+    import pandas
+    import sklearn
+    import numpy
+    import dask
+    import pyarrow
+
+    print(pandas.__version__)
+    print(sklearn.__version__)
+    print(numpy.__version__)
+    print(dask.__version__)
+    print(pyarrow.__version__)
+
 
 default_arg = {
     'owner': 'jDiego',
     'retries': 5,
-    'retry_dalay': timedelta(minutes=5)
+    'retry_delay': timedelta(minutes=5)
 }
 
-def greet(ti):
-    first_name = ti.xcom_pull(task_ids="get_name", key="first_name")
-    last_name = ti.xcom_pull(task_ids="get_name", key="last_name")
-    age = ti.xcom_pull(task_ids="get_age", key="age")
-    print(f"Hello World!\n\t My name is {first_name} {last_name} and  and I am {age} old")
-
-
-def get_name(ti):
-    ti.xcom_push(key="first_name", value="Jerry")
-    ti.xcom_push(key="last_name", value="Fridman")
-
-def get_age(ti):
-    ti.xcom_push(key="age", value=19)
 
 with DAG(
     default_args = default_arg,
-    dag_id = "our_dag_with_python_operator_v06",
+    dag_id = "our_dag_with_python_operator_v01",
     description = "Out first dag using python operator",
-    start_date = datetime(2023, 10, 8),
-    schedule_interval = "@daily"
+    start_date = datetime(2023, 10, 12),
+    schedule_interval = "@daily",
+    catchup = True
 ) as dag:
     task1 = PythonOperator(
-        task_id = "greet",
-        python_callable = greet,
-        # op_kwargs = {'age': 28}
+        task_id = "python_package_versions",
+        python_callable = print_versions
     )
 
     task2 = PythonOperator(
-        task_id = "get_name",
-        python_callable = get_name
+        task_id = "test_imports_from_py",
+        python_callable = hello_word
     )
 
-    task3 = PythonOperator(
-        task_id = "get_age",
-        python_callable = get_age
-    )
-
-    [task2, task3] >> task1 
+    task1 >> task2
