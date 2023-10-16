@@ -1,6 +1,6 @@
 from datetime import timedelta, datetime
 
-from etl_python_task import *
+# from etl_python_task import *
 
 from airflow import DAG
 from airflow.operators.python import PythonOperator
@@ -40,9 +40,9 @@ with DAG(
         python_callable = print_versions
     )
 
-    task2 = PythonOperator(
-        task_id = "test_imports_from_py",
-        python_callable = hello_word
-    )
+    # task2 = PythonOperator(
+    #     task_id = "test_imports_from_py",
+    #     python_callable = hello_word
+    # )
 
-    task1 >> task2
+    task1 # >> task2

@@ -77,7 +77,14 @@ x-airflow-common:
     - ${AIRFLOW_PROJ_DIR:-.}/logs:/opt/airflow/logs
     - ${AIRFLOW_PROJ_DIR:-.}/config:/opt/airflow/config
     - ${AIRFLOW_PROJ_DIR:-.}/plugins:/opt/airflow/plugins
+    # Binding files direcotires into Airflow Env
+
+    ## Example to test
     - C:/Users/jdieg/Desktop/henry/proyectos/Google-Yelp/.data:/opt/airflow/raw_data
+
+    ## Data Files Path from local host machine into Airflow Enviroment
+    - C:/Users/jdieg/Desktop/henry/proyectos/Google-Yelp/.data/google_maps:/opt/airflow/google_maps
+    - C:/Users/jdieg/Desktop/henry/proyectos/Google-Yelp/.data/yelp:/opt/airflow/yelp
   user: "${AIRFLOW_UID:-50000}:0"
   depends_on:
     &airflow-common-depends-on

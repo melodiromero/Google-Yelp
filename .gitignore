@@ -4,3 +4,7 @@
 /.data
 .data
 .data/
+
+/Sprint-2/automatizacion_etl/dags/__pycache__
+Sprint-2/automatizacion_etl/dags/__pycache__
+Sprint-2/automatizacion_etl/dags/__pycache__/

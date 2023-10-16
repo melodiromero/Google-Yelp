@@ -8,12 +8,11 @@ import psycopg2
 from psycopg2 import sql
 import pandas as pd
 
+
+
 file_path = F"/opt/airflow/raw_data/csv_prueba.csv"
 
-# def read_transform_save():
-#     file_path = "C:\\Users\\jdieg\\Desktop\\henry\\proyectos\\Google-Yelp\\.data\\csv_prueba.csv"
-#     data = pd.read_csv(file_path)
-#     return data
+
 
 def load_data_to_postgres():
 
@@ -37,7 +36,10 @@ def load_data_to_postgres():
     csv_file_path = file_path
 
     # Define the SQL statement to copy data from the CSV file to the PostgreSQL table
-    sql_statement = sql.SQL("COPY {} FROM %s CSV HEADER").format(sql.Identifier(table_name))
+    sql_statement = f"""
+                    COPY {table_name} FROM stdin WITH CSV HEADER
+                    DELIMITER as ','
+                    """
 
     try:
         # Open the CSV file and copy the data to the PostgreSQL table
