@@ -96,9 +96,9 @@ dataset_stem.info()
 
 dataset_stem
 
-def get_recommendations_by_terms(df, query_terms, num_recommendations=10):
+def get_recommendations_by_terms(query_terms, num_recommendations=10):
     recommendations = []
-
+    df = dataset_stem
     for index, row in df.iterrows():
         content_terms = set(row['text_stem'].split())  # Suponiendo que 'content' contiene las palabras clave del contenido
 
@@ -115,7 +115,7 @@ def get_recommendations_by_terms(df, query_terms, num_recommendations=10):
 
 # Ejemplo de uso
 query_terms = {'vegan','burger'}
-recommendations = get_recommendations_by_terms(dataset_stem, query_terms)
+recommendations = get_recommendations_by_terms(query_terms)
 
 recommendations
 
@@ -128,9 +128,9 @@ for index, similarity in recommendations:
     # Muestra otros datos específicos del elemento si es necesario
     print(element)
 
-def get_non_related_records(df, query_terms, threshold=0.2):
+def get_non_related_records(query_terms, threshold=0.2):
     non_related_records = []
-
+    df = dataset_stem
     for index, row in df.iterrows():
         content_terms = set(row['text_stem'].split())  # Suponiendo que 'content' contiene las palabras clave del contenido
 
@@ -147,7 +147,7 @@ def get_non_related_records(df, query_terms, threshold=0.2):
 
 # Ejemplo de uso
 query_terms_o = {'vegan','burger'}
-recommendations_o = get_non_related_records(dataset_stem, query_terms)
+recommendations_o = get_non_related_records(query_terms)
 
 len(recommendations_o)
 
