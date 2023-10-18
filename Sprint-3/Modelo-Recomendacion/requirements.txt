@@ -110,11 +110,7 @@ requests-oauthlib
 rich
 rpds-py
 rsa
-scikit-learn
-scipy
-seaborn
 six
-sklearn
 smmap
 soupsieve
 stack-data
@@ -124,9 +120,6 @@ tabulate
 tangled-up-in-unicode
 tenacity
 threadpoolctl
-toml
-toolz
-tornado
 tqdm
 traitlets
 typeguard
@@ -139,7 +132,5 @@ vboxapi
 visions
 watchdog
 wcwidth
-wordcloud
 yarl
-ydata-profiling
 zipp
