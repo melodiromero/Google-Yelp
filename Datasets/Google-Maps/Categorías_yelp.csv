@@ -1,0 +1,810 @@
+category: count;;
+American (New)': 428670;1;
+ 'Bars': 635732;2;FALSO
+ 'Nightlife': 656732;3;FALSO
+ 'Cocktail Bars': 177077;4;FALSO
+ 'Restaurants': 2193762;5;FALSO
+ 'Wine Bars': 88579;6;FALSO
+ 'Food': 871658;7;FALSO
+ 'Vietnamese': 41728;8;FALSO
+ 'Salad': 170183;9;FALSO
+ 'Thai': 51055;10;FALSO
+ 'Laotian': 3833;11;FALSO
+ 'Noodles': 30495;12;FALSO
+ 'Buffets': 22287;13;FALSO
+ 'Chinese': 95953;14;FALSO
+ 'Asian Fusion': 91945;15;FALSO
+ 'Coffee & Tea': 223700;16;FALSO
+ 'Pizza': 225206;17;FALSO
+ 'Sandwiches': 322360;18;FALSO
+ 'Italian': 192594;19;FALSO
+ 'Cafes': 140991;20;FALSO
+ 'Breakfast & Brunch': 419968;21;FALSO
+ 'Steakhouses': 112147;22;FALSO
+ 'Seafood': 301559;23;FALSO
+ 'Mexican': 214473;24;FALSO
+ 'Tacos': 57994;25;FALSO
+ 'Sushi Bars': 101129;26;FALSO
+ 'Vegetarian': 79953;27;FALSO
+ 'Vegan': 60583;28;FALSO
+ 'Taiwanese': 5881;29;FALSO
+ 'Southern': 108675;30;FALSO
+ 'Cajun/Creole': 109957;31;FALSO
+ 'Cucina campana': 126;32;FALSO
+ 'Pasta Shops': 9229;33;FALSO
+ 'Specialty Food': 117148;34;FALSO
+ 'Venues & Event Spaces': 64082;35;FALSO
+ 'Event Planning & Services': 173221;36;FALSO
+ 'Beer Bar': 67108;37;FALSO
+ 'Burgers': 216599;38;FALSO
+ 'Chicken Wings': 95509;39;FALSO
+ 'Barbeque': 94637;40;FALSO
+ 'Caterers': 94246;41;FALSO
+ 'Caribbean': 23635;42;FALSO
+ 'Beer': 96090;43;FALSO
+ 'Wine & Spirits': 96090;44;FALSO
+ 'Grocery': 55688;45;FALSO
+ 'Ethnic Food': 23451;46;FALSO
+ 'International Grocery': 4303;47;FALSO
+ 'Malaysian': 2535;48;FALSO
+ 'Cambodian': 855;49;FALSO
+ 'Greek': 31921;50;FALSO
+ 'Internet Cafes': 3304;51;FALSO
+ 'Bakeries': 108119;52;FALSO
+ 'Hot Dogs': 24025;53;FALSO
+ 'Fast Food': 123488;54;FALSO
+ 'American (Traditional)': 461433;55;FALSO
+ 'Juice Bars & Smoothies': 63364;56;FALSO
+ 'Cupcakes': 12014;57;FALSO
+ 'Patisserie/Cake Shop': 5992;58;FALSO
+ 'Comfort Food': 58776;59;FALSO
+ 'Desserts': 154908;60;FALSO
+ 'Bagels': 25051;61;FALSO
+ 'Gastropubs': 49193;62;FALSO
+ 'Pubs': 79506;63;FALSO
+ 'Japanese': 103027;64;FALSO
+ 'Indian': 36550;65;FALSO
+ 'French': 34924;66;FALSO
+ 'Shopping': 57686;67;FALSO
+ 'Wraps': 11356;68;FALSO
+ 'Acai Bowls': 12577;69;FALSO
+ 'Latin American': 42614;70;FALSO
+ 'Ice Cream & Frozen Yogurt': 73754;71;FALSO
+ 'Donuts': 33211;72;FALSO
+ 'Argentine': 2128;73;FALSO
+ 'Basque': 2022;74;FALSO
+ 'Tapas/Small Plates': 41865;75;FALSO
+ 'Hawaiian': 15627;76;FALSO
+ 'Poke': 15910;77;FALSO
+ 'Food Stands': 9866;78;FALSO
+ 'Farmers Market': 11994;79;FALSO
+ 'Food Trucks': 32668;80;FALSO
+ 'Hotels & Travel': 28635;81;FALSO
+ 'Hotels': 17218;82;FALSO
+ 'Piano Bars': 2197;83;FALSO
+ 'Music Venues': 33488;84;FALSO
+ 'Arts & Entertainment': 75216;85;FALSO
+ 'Chicken Shop': 34838;86;FALSO
+ 'Seafood Markets': 12868;87;FALSO
+ 'Gluten-Free': 57057;88;FALSO
+ 'Kombucha': 1553;89;FALSO
+ 'Diners': 75546;90;FALSO
+ 'Korean': 28247;91;FALSO
+ 'Soul Food': 33293;92;FALSO
+ 'Sports Bars': 84336;93;FALSO
+ 'Food Delivery Services': 28648;94;FALSO
+ 'German': 8497;95;FALSO
+ 'Local Flavor': 37085;96;FALSO
+ 'Breweries': 55730;97;FALSO
+ 'Ramen': 24141;98;FALSO
+ 'Public Services & Government': 2075;99;FALSO
+ 'Landmarks & Historical Buildings': 1832;100;FALSO
+ 'Walking Tours': 789;101;FALSO
+ 'Art Tours': 614;102;FALSO
+ 'Historical Tours': 1757;103;FALSO
+ 'Tours': 8100;104;FALSO
+ 'Convenience Stores': 15805;105;FALSO
+ 'Gas Stations': 4504;106;FALSO
+ 'Automotive': 6593;107;FALSO
+ 'Mediterranean': 63202;108;FALSO
+ 'Lounges': 37874;109;FALSO
+ 'Photography Stores & Services': 2061;110;FALSO
+ 'Drugstores': 14445;111;FALSO
+ 'Beauty & Spas': 7463;112;FALSO
+ 'Cosmetics & Beauty Supply': 2973;113;FALSO
+ 'Delis': 60195;114;FALSO
+ 'Brewpubs': 14878;115;FALSO
+ 'Live/Raw Food': 10811;116;FALSO
+ 'Tex-Mex': 38556;117;FALSO
+ 'African': 4341;118;FALSO
+ 'Irish Pub': 4919;119;FALSO
+ 'Dive Bars': 9888;120;FALSO
+ 'Irish': 7234;121;FALSO
+ 'Fruits & Veggies': 11098;122;FALSO
+ 'Meat Shops': 12521;123;FALSO
+ 'Cuban': 16572;124;FALSO
+ 'Pan Asian': 7035;125;FALSO
+ 'Fish & Chips': 9459;126;FALSO
+ 'Middle Eastern': 31830;127;FALSO
+ 'Israeli': 1239;128;FALSO
+ 'Pakistani': 8577;129;FALSO
+ 'Cheesesteaks': 26526;130;FALSO
+ 'Bubble Tea': 27469;131;FALSO
+ 'Waffles': 8097;132;FALSO
+ 'Soup': 53679;133;FALSO
+ 'Falafel': 4851;134;FALSO
+ 'Halal': 14453;135;FALSO
+ 'Kebab': 4784;136;FALSO
+ 'Tiki Bars': 5691;137;FALSO
+ 'Salvadoran': 1920;138;FALSO
+ 'Head Shops': 701;139;FALSO
+ 'Flowers & Gifts': 9247;140;FALSO
+ 'Tobacco Shops': 2325;141;FALSO
+ 'Gelato': 9166;142;FALSO
+ 'Smokehouse': 6601;143;FALSO
+ 'Butcher': 6527;144;FALSO
+ 'Canadian (New)': 3582;145;FALSO
+ 'Custom Cakes': 7018;146;FALSO
+ 'Wineries': 14818;147;FALSO
+ 'Bed & Breakfast': 1699;148;FALSO
+ 'New Mexican Cuisine': 11751;149;FALSO
+ 'Armenian': 1113;150;FALSO
+ 'Wine Tasting Room': 6966;151;FALSO
+ 'Modern European': 8780;152;FALSO
+ 'Pretzels': 2448;153;FALSO
+ 'Karaoke': 4732;154;FALSO
+ 'Street Vendors': 6978;155;FALSO
+ 'Cheese Shops': 5507;156;FALSO
+ 'Guest Houses': 68;157;FALSO
+ 'Mass Media': 300;158;FALSO
+ 'Couriers & Delivery Services': 235;159;FALSO
+ 'Local Services': 3167;160;FALSO
+ 'Tapas Bars': 16845;161;FALSO
+ 'Spanish': 16094;162;FALSO
+ 'Tasting Classes': 692;163;FALSO
+ 'Education': 2136;164;FALSO
+ 'Service Stations': 193;165;FALSO
+ 'Lebanese': 5451;166;FALSO
+ 'Recreation Centers': 183;167;FALSO
+ 'Trampoline Parks': 64;168;FALSO
+ 'Active Life': 15168;169;FALSO
+ 'Party & Event Planning': 10114;170;FALSO
+ 'Arcades': 4564;171;FALSO
+ 'Chocolatiers & Shops': 9431;172;FALSO
+ 'Dinner Theater': 2641;173;FALSO
+ 'Health Markets': 13632;174;FALSO
+ 'Vitamins & Supplements': 1648;175;FALSO
+ 'Polish': 1275;176;FALSO
+ 'Music & DVDs': 200;177;FALSO
+ 'Bookstores': 1930;178;FALSO
+ 'Vinyl Records': 239;179;FALSO
+ 'Books': 2783;180;FALSO
+ 'Mags': 2783;181;FALSO
+ 'Music & Video': 2783;182;FALSO
+ 'Dim Sum': 10308;183;FALSO
+ 'Hot Pot': 6721;184;FALSO
+ 'Supper Clubs': 66;185;FALSO
+ 'Dance Clubs': 5407;186;FALSO
+ 'Themed Cafes': 1212;187;FALSO
+ 'Macarons': 3010;188;FALSO
+ 'Mongolian': 2364;189;FALSO
+ 'Organic Stores': 7041;190;FALSO
+ 'Szechuan': 8712;191;FALSO
+ 'Brewing Supplies': 323;192;FALSO
+ 'Do-It-Yourself Food': 1321;193;FALSO
+ 'Hydroponics': 41;194;FALSO
+ 'Home & Garden': 6577;195;FALSO
+ 'Nurseries & Gardening': 1676;196;FALSO
+ 'Whiskey Bars': 6290;197;FALSO
+ 'Performing Arts': 1711;198;FALSO
+ 'Museums': 2746;199;FALSO
+ 'Cinema': 2501;200;FALSO
+ 'Resorts': 3983;201;FALSO
+ 'Day Spas': 3444;202;FALSO
+ 'Teppanyaki': 2632;203;FALSO
+ 'Puerto Rican': 3354;204;FALSO
+ 'Izakaya': 2434;205;FALSO
+ 'British': 4180;206;FALSO
+ 'Tea Rooms': 7485;207;FALSO
+ 'Casinos': 4652;208;FALSO
+ 'Mobile Phones': 2103;209;FALSO
+ 'Department Stores': 10219;210;FALSO
+ 'Discount Store': 4769;211;FALSO
+ 'Electronics': 5603;212;FALSO
+ 'Fashion': 12786;213;FALSO
+ 'Health & Medical': 6598;214;FALSO
+ 'Pharmacy': 3686;215;FALSO
+ 'Turkish': 4553;216;FALSO
+ 'Outlet Stores': 474;217;FALSO
+ 'Cooking Schools': 746;218;FALSO
+ 'Specialty Schools': 941;219;FALSO
+ 'Wigs': 278;220;FALSO
+ 'Hookah Bars': 2192;221;FALSO
+ 'Shaved Ice': 6610;222;FALSO
+ 'Senegalese': 66;223;FALSO
+ 'Toy Stores': 509;224;FALSO
+ 'Tires': 1167;225;FALSO
+ 'Wholesale Stores': 2465;226;FALSO
+ 'Distilleries': 6531;227;FALSO
+ 'Venezuelan': 1799;228;FALSO
+ 'Burmese': 618;229;FALSO
+ 'Imported Food': 3334;230;FALSO
+ 'Ethical Grocery': 67;231;FALSO
+ 'Beer Gardens': 13751;232;FALSO
+ 'Brazilian': 7936;233;FALSO
+ 'Champagne Bars': 1114;234;FALSO
+ 'Kosher': 3119;235;FALSO
+ 'Musicians': 508;236;FALSO
+ 'Jazz & Blues': 7966;237;FALSO
+ 'Candy Stores': 8550;238;FALSO
+ 'Kitchen & Bath': 647;239;FALSO
+ 'Furniture Stores': 2786;240;FALSO
+ 'Home Decor': 1416;241;FALSO
+ 'Appliances': 604;242;FALSO
+ 'Cafeteria': 1302;243;FALSO
+ 'Beverage Store': 1567;244;FALSO
+ 'Wine Tours': 1718;245;FALSO
+ 'Creperies': 7505;246;FALSO
+ 'Home Cleaning': 95;247;FALSO
+ 'Home Services': 4223;248;FALSO
+ 'Thrift Stores': 315;249;FALSO
+ 'Florists': 3427;250;FALSO
+ 'Sardinian': 339;251;FALSO
+ 'Gay Bars': 1275;252;FALSO
+ 'Bangladeshi': 326;253;FALSO
+ 'Food Court': 8240;254;FALSO
+ 'Herbs & Spices': 1399;255;FALSO
+ 'Adult Entertainment': 2088;256;FALSO
+ 'Egyptian': 577;257;FALSO
+ 'Coffee Roasteries': 14698;258;FALSO
+ 'Filipino': 4730;259;FALSO
+ 'Pop-Up Restaurants': 2623;260;FALSO
+ 'Belgian': 1348;261;FALSO
+ 'Social Clubs': 1896;262;FALSO
+ 'Golf': 2669;263;FALSO
+ 'Bowling': 3175;264;FALSO
+ 'Parks': 2722;265;FALSO
+ 'Cantonese': 4987;266;FALSO
+ 'Peruvian': 4304;267;FALSO
+ 'Trinidadian': 323;268;FALSO
+ 'Colleges & Universities': 52;269;FALSO
+ 'Bar Crawl': 623;270;FALSO
+ 'Afghan': 1241;271;FALSO
+ 'Brasseries': 7566;272;FALSO
+ 'Kitchen Supplies': 79;273;FALSO
+ 'Cideries': 1099;274;FALSO
+ 'Beer Tours': 1408;275;FALSO
+ 'Furniture Reupholstery': 50;276;FALSO
+ 'Carpet Cleaning': 110;277;FALSO
+ 'Damage Restoration': 23;278;FALSO
+ 'Air Duct Cleaning': 22;279;FALSO
+ 'Shanghainese': 1887;280;FALSO
+ 'Pop-up Shops': 469;281;FALSO
+ 'Shopping Centers': 4807;282;FALSO
+ 'Pancakes': 528;283;FALSO
+ 'Shaved Snow': 497;284;FALSO
+ 'Ethiopian': 2593;285;FALSO
+ 'Car Rental': 92;286;FALSO
+ 'Sporting Goods': 2819;287;FALSO
+ 'Trainers': 138;288;FALSO
+ 'Pilates': 92;289;FALSO
+ 'Gyms': 311;290;FALSO
+ 'Fitness & Instruction': 1707;291;FALSO
+ 'Massage': 1387;292;FALSO
+" ""Women's Clothing"": 922";293;FALSO
+ 'Sports Wear': 100;294;FALSO
+ 'Yoga': 277;295;FALSO
+ 'Fondue': 831;296;FALSO
+ 'Martial Arts': 6;297;FALSO
+ 'Arts & Crafts': 3200;298;FALSO
+ 'Art Supplies': 297;299;FALSO
+ 'Chinese Martial Arts': 6;300;FALSO
+ 'Traditional Chinese Medicine': 164;301;FALSO
+ 'Iberian': 949;302;FALSO
+ 'Portuguese': 964;303;FALSO
+ 'Colombian': 2314;304;FALSO
+ 'Tennis': 256;305;FALSO
+ 'Horseback Riding': 196;306;FALSO
+ 'Pets': 2020;307;FALSO
+ 'Laser Tag': 204;308;FALSO
+ 'Meaderies': 215;309;FALSO
+ 'Syrian': 1094;310;FALSO
+ 'Uzbek': 554;311;FALSO
+ 'Persian/Iranian': 2210;312;FALSO
+ 'Russian': 1557;313;FALSO
+ 'Swimwear': 99;314;FALSO
+ 'Surf Shop': 99;315;FALSO
+ 'Adult Education': 86;316;FALSO
+ 'Wine Tasting Classes': 404;317;FALSO
+ 'Empanadas': 3323;318;FALSO
+ 'Boating': 897;319;FALSO
+ 'Drive-Thru Bars': 282;320;FALSO
+ 'Singaporean': 525;321;FALSO
+ 'Gift Shops': 4893;322;FALSO
+ 'Ticket Sales': 91;323;FALSO
+ 'Contractors': 182;324;FALSO
+ 'Moroccan': 1479;325;FALSO
+ 'Eatertainment': 1957;326;FALSO
+ 'Conveyor Belt Sushi': 1288;327;FALSO
+ 'Dominican': 1373;328;FALSO
+ 'Unofficial Yelp Events': 153;329;FALSO
+ 'Cannabis Clinics': 788;330;FALSO
+ 'Personal Chefs': 2638;331;FALSO
+ 'Australian': 1209;332;FALSO
+ 'Personal Shopping': 332;333;FALSO
+ 'Eyelash Service': 42;334;FALSO
+ 'Accessories': 710;335;FALSO
+ 'Pet Stores': 406;336;FALSO
+ 'Jewelry': 460;337;FALSO
+ 'Nail Technicians': 14;338;FALSO
+ 'Nail Salons': 185;339;FALSO
+ 'Cards & Stationery': 419;340;FALSO
+ 'Spiritual Shop': 159;341;FALSO
+ 'Supernatural Readings': 189;342;FALSO
+ 'Arabic': 1773;343;FALSO
+ 'Farms': 1424;344;FALSO
+ 'Bridal': 77;345;FALSO
+ 'Parking': 226;346;FALSO
+ 'Georgian': 142;347;FALSO
+" ""Children's Clothing"": 62";348;FALSO
+ 'Pool Halls': 1674;349;FALSO
+ 'Donairs': 667;350;FALSO
+ 'Sicilian': 1147;351;FALSO
+ 'Weight Loss Centers': 205;352;FALSO
+ 'Body Contouring': 12;353;FALSO
+ 'Skin Care': 272;354;FALSO
+ 'Acupuncture': 117;355;FALSO
+ 'Reflexology': 96;356;FALSO
+ 'Medical Spas': 73;357;FALSO
+ 'Massage Therapy': 207;358;FALSO
+ 'Accountants': 43;359;FALSO
+ 'Professional Services': 1216;360;FALSO
+ 'Flea Markets': 568;361;FALSO
+ 'Community Service/Non-Profit': 634;362;FALSO
+ 'Embroidery & Crochet': 12;363;FALSO
+ 'Cigar Bars': 408;364;FALSO
+ 'Sports Clubs': 271;365;FALSO
+ 'Travel Services': 619;366;FALSO
+ 'Visitor Centers': 132;367;FALSO
+ 'Festivals': 1159;368;FALSO
+ 'Religious Organizations': 770;369;FALSO
+ 'Churches': 177;370;FALSO
+ 'Interior Design': 161;371;FALSO
+ 'Mattresses': 365;372;FALSO
+ 'Scandinavian': 1200;373;FALSO
+ 'South African': 207;374;FALSO
+ 'Food Banks': 61;375;FALSO
+ 'Olive Oil': 325;376;FALSO
+ 'Botanical Gardens': 460;377;FALSO
+ 'Departments of Motor Vehicles': 91;378;FALSO
+ 'Bus Tours': 221;379;FALSO
+ 'Movers': 68;380;FALSO
+ 'Landscape Architects': 44;381;FALSO
+ 'Self Storage': 56;382;FALSO
+ 'Country Clubs': 554;383;FALSO
+ 'Bistros': 818;384;FALSO
+ 'Barbers': 379;385;FALSO
+ 'Public Markets': 3127;386;FALSO
+ 'Livestock Feed & Supply': 32;387;FALSO
+ 'Popcorn Shops': 549;388;FALSO
+ 'Wedding Planning': 1558;389;FALSO
+ 'Body Shops': 53;390;FALSO
+ 'Poutineries': 412;391;FALSO
+ 'Mini Golf': 241;392;FALSO
+ 'Art Galleries': 2379;393;FALSO
+ 'Cooking Classes': 1727;394;FALSO
+ 'Pet Services': 724;395;FALSO
+ 'Pet Groomers': 93;396;FALSO
+ 'Preschools': 21;397;FALSO
+ 'Kids Activities': 693;398;FALSO
+ 'Playgrounds': 151;399;FALSO
+ 'Airports': 248;400;FALSO
+ 'Wholesalers': 637;401;FALSO
+ 'Indonesian': 1367;402;FALSO
+ 'Garage Door Services': 550;403;FALSO
+ 'Keys & Locksmiths': 556;404;FALSO
+ 'Lighting Fixtures & Equipment': 45;405;FALSO
+ 'Club Crawl': 183;406;FALSO
+ 'Nutritionists': 710;407;FALSO
+ 'Car Wash': 359;408;FALSO
+ 'Educational Services': 57;409;FALSO
+ 'Medical Centers': 121;410;FALSO
+ 'Doctors': 168;411;FALSO
+ 'Naturopathic/Holistic': 106;412;FALSO
+ 'Colonics': 9;413;FALSO
+ 'Pet Adoption': 505;414;FALSO
+ 'Pool & Billiards': 120;415;FALSO
+ 'Hungarian': 174;416;FALSO
+ 'Honduran': 690;417;FALSO
+ 'Skating Rinks': 265;418;FALSO
+ 'Skate Shops': 22;419;FALSO
+ 'Party Equipment Rentals': 97;420;FALSO
+ 'Real Estate': 2332;421;FALSO
+ 'Building Supplies': 207;422;FALSO
+ 'Property Management': 31;423;FALSO
+ 'Waxing': 66;424;FALSO
+ 'Hair Removal': 94;425;FALSO
+ 'Floral Designers': 145;426;FALSO
+ 'Financial Services': 384;427;FALSO
+ 'Tax Services': 207;428;FALSO
+ 'Tuscan': 554;429;FALSO
+ 'CSA': 633;430;FALSO
+ 'Limos': 360;431;FALSO
+ 'Taxis': 62;432;FALSO
+ 'Airport Shuttles': 68;433;FALSO
+ 'Transportation': 458;434;FALSO
+ 'Party Bus Rentals': 277;435;FALSO
+ 'Public Transportation': 38;436;FALSO
+ 'Customized Merchandise': 50;437;FALSO
+ 'Antiques': 476;438;FALSO
+ 'Restaurant Supplies': 345;439;FALSO
+ 'Vape Shops': 346;440;FALSO
+ 'Propane': 192;441;FALSO
+ 'Ice Delivery': 15;442;FALSO
+ 'Airlines': 10;443;FALSO
+ 'Herbal Shops': 196;444;FALSO
+ 'Boat Charters': 1032;445;FALSO
+ 'Party Supplies': 532;446;FALSO
+ 'Souvenir Shops': 2120;447;FALSO
+ 'Comic Books': 234;448;FALSO
+ 'Food Tours': 639;449;FALSO
+ 'Newspapers & Magazines': 52;450;FALSO
+ 'Attraction Farms': 161;451;FALSO
+ 'Honey': 171;452;FALSO
+ 'Cabaret': 142;453;FALSO
+ 'Strip Clubs': 41;454;FALSO
+ 'Escape Games': 57;455;FALSO
+ 'Summer Camps': 49;456;FALSO
+ 'Adult': 170;457;FALSO
+ 'Candle Stores': 225;458;FALSO
+ 'Perfume': 63;459;FALSO
+ 'Tanning': 25;460;FALSO
+ 'Tanning Beds': 20;461;FALSO
+ 'Photographers': 80;462;FALSO
+ 'Eyewear & Opticians': 376;463;FALSO
+ 'Fishing': 58;464;FALSO
+ 'Pumpkin Patches': 206;465;FALSO
+ 'Tabletop Games': 499;466;FALSO
+ 'Hobby Shops': 240;467;FALSO
+ 'Car Dealers': 20;468;FALSO
+ 'Art Classes': 194;469;FALSO
+ 'Business Consulting': 46;470;FALSO
+ 'Personal Assistants': 29;471;FALSO
+ 'Bike tours': 33;472;FALSO
+ 'Pedicabs': 6;473;FALSO
+ 'Tree Services': 27;474;FALSO
+ 'Truck Rental': 14;475;FALSO
+ 'Commercial Truck Dealers': 5;476;FALSO
+ 'Indoor Playcentre': 445;477;FALSO
+ 'Amusement Parks': 506;478;FALSO
+ 'Used Bookstore': 183;479;FALSO
+ 'Ethnic Grocery': 512;480;FALSO
+ 'Web Design': 25;481;FALSO
+ 'Bartenders': 530;482;FALSO
+ 'Country Dance Halls': 64;483;FALSO
+ 'LAN Centers': 134;484;FALSO
+ 'Austrian': 26;485;FALSO
+ 'Race Tracks': 111;486;FALSO
+ 'Tableware': 12;487;FALSO
+ 'Used Car Dealers': 6;488;FALSO
+ 'Auto Repair': 225;489;FALSO
+ 'Officiants': 16;490;FALSO
+ 'Courthouses': 10;491;FALSO
+" ""Men's Hair Salons"": 11";492;FALSO
+ 'Hair Salons': 349;493;FALSO
+ 'Smog Check Stations': 37;494;FALSO
+ 'Recycling Center': 144;495;FALSO
+ 'Soccer': 3;496;FALSO
+ 'Used': 566;497;FALSO
+ 'Vintage & Consignment': 566;498;FALSO
+ 'Gardeners': 36;499;FALSO
+ 'Art Schools': 6;500;VERDADERO
+ 'Paint & Sip': 446;501;FALSO
+ 'Meditation Centers': 15;502;FALSO
+ 'Alternative Medicine': 38;503;FALSO
+ 'Community Gardens': 15;504;FALSO
+ 'Water Purification Services': 381;505;FALSO
+ 'Water Delivery': 368;506;FALSO
+ 'Plumbing': 210;507;FALSO
+ 'Speakeasies': 1499;508;FALSO
+ 'Commercial Truck Repair': 28;509;FALSO
+ 'Pediatricians': 8;510;FALSO
+ 'Mountain Biking': 55;511;FALSO
+ 'Bike Rentals': 144;512;FALSO
+ 'Somali': 115;513;FALSO
+ 'Radio Stations': 84;514;FALSO
+ 'Travel Agents': 13;515;FALSO
+ 'Axe Throwing': 235;516;FALSO
+ 'Himalayan/Nepalese': 1537;517;FALSO
+ 'Hardware Stores': 63;518;FALSO
+ 'Hunting & Fishing Supplies': 125;519;FALSO
+ 'Drive-In Theater': 27;520;FALSO
+ 'Holiday Decorations': 4;521;FALSO
+ 'Christmas Trees': 57;522;FALSO
+ 'Taxidermy': 5;523;FALSO
+ 'Czech': 93;524;FALSO
+ 'Water Stores': 128;525;FALSO
+ 'Medical Supplies': 54;526;FALSO
+ 'Aquariums': 269;527;FALSO
+ 'Nicaraguan': 274;528;FALSO
+ 'Shared Office Spaces': 2047;529;FALSO
+ 'Yelp Events': 289;530;FALSO
+ 'Ukrainian': 446;531;FALSO
+ 'Swimming Pools': 113;532;FALSO
+ 'Commercial Real Estate': 50;533;FALSO
+ 'Special Education': 93;534;FALSO
+ 'Gun/Rifle Ranges': 33;535;FALSO
+ 'Baby Gear & Furniture': 74;536;FALSO
+ 'Pick Your Own Farms': 679;537;FALSO
+ 'Office Equipment': 274;538;FALSO
+ 'Pawn Shops': 13;539;FALSO
+ 'Bounce House Rentals': 5;540;FALSO
+ 'Japanese Curry': 1032;541;FALSO
+ 'Dry Cleaning & Laundry': 95;542;FALSO
+ 'Home Organization': 21;543;FALSO
+ 'Grilling Equipment': 55;544;FALSO
+ 'Airport Terminals': 74;545;FALSO
+ 'Post Offices': 17;546;FALSO
+ 'Bikes': 227;547;FALSO
+ 'Bike Repair/Maintenance': 324;548;FALSO
+ 'Diagnostic Services': 9;549;FALSO
+ 'Walk-in Clinics': 16;550;FALSO
+ 'Urgent Care': 77;551;FALSO
+ 'Haitian': 302;552;FALSO
+ 'Tattoo': 21;553;FALSO
+ 'Rest Stops': 38;554;FALSO
+ 'Dog Parks': 251;555;FALSO
+ 'Boat Tours': 536;556;FALSO
+ 'Optometrists': 45;557;FALSO
+ 'Saunas': 65;558;FALSO
+ 'Reiki': 35;559;FALSO
+ 'Music Production Services': 24;560;FALSO
+ 'Home Health Care': 29;561;FALSO
+ 'Delicatessen': 512;562;FALSO
+ 'Hostels': 97;563;FALSO
+" ""Men's Clothing"": 663";564;FALSO
+ 'Art Museums': 293;565;FALSO
+ 'Billing Services': 13;566;FALSO
+ 'Coffee & Tea Supplies': 43;567;FALSO
+ 'Makeup Artists': 27;568;FALSO
+ 'Osteopaths': 48;569;FALSO
+ 'Hospitals': 70;570;FALSO
+ 'Auto Glass Services': 133;571;FALSO
+ 'Auto Detailing': 252;572;FALSO
+ 'Coffeeshops': 80;573;FALSO
+ 'Comedy Clubs': 650;574;FALSO
+ 'Appliances & Repair': 68;575;FALSO
+ 'Pet Sitting': 485;576;FALSO
+ 'Party Characters': 26;577;FALSO
+ 'Dance Schools': 13;578;FALSO
+ 'Dietitians': 81;579;FALSO
+ 'Paddleboarding': 74;580;FALSO
+ 'Rafting/Kayaking': 141;581;FALSO
+ 'Check Cashing/Pay-day Loans': 23;582;FALSO
+ 'Hong Kong Style Cafe': 837;583;FALSO
+ 'Boat Repair': 8;584;FALSO
+ 'Marinas': 26;585;FALSO
+ 'Advertising': 10;586;FALSO
+ 'Counseling & Mental Health': 71;587;FALSO
+ 'Beaches': 1542;588;FALSO
+ 'Amateur Sports Teams': 236;589;FALSO
+ 'Investing': 9;590;FALSO
+ 'Banks & Credit Unions': 107;591;FALSO
+ 'Auto Loan Providers': 9;592;FALSO
+ 'Child Care & Day Care': 17;593;FALSO
+ 'Computers': 77;594;FALSO
+ 'Cultural Center': 29;595;FALSO
+ 'Health Coach': 39;596;FALSO
+ 'Concierge Medicine': 5;597;FALSO
+ 'Outdoor Furniture Stores': 63;598;FALSO
+ 'Videos & Video Game Rental': 179;599;FALSO
+ 'Water Heater Installation/Repair': 22;600;FALSO
+ 'Airport Lounges': 227;601;FALSO
+ 'Golf Lessons': 865;602;FALSO
+ 'Animal Shelters': 18;603;FALSO
+ 'Team Building Activities': 281;604;FALSO
+ 'Stadiums & Arenas': 128;605;FALSO
+ 'Barre Classes': 19;606;FALSO
+ 'Pet Training': 29;607;FALSO
+ 'Shoe Stores': 110;608;FALSO
+ 'Homeowner Association': 24;609;FALSO
+ 'International': 94;610;FALSO
+ 'Cannabis Dispensaries': 113;611;FALSO
+ 'IT Services & Computer Repair': 33;612;FALSO
+ 'Mobile Phone Repair': 29;613;FALSO
+ 'Haunted Houses': 15;614;FALSO
+ 'Car Window Tinting': 16;615;FALSO
+ 'Hats': 15;616;FALSO
+ 'Swimming Lessons/Schools': 5;617;FALSO
+ 'Batting Cages': 46;618;FALSO
+ 'DJs': 11;619;FALSO
+ 'Car Stereo Installation': 4;620;FALSO
+ 'Trailer Repair': 4;621;FALSO
+ 'RV Repair': 4;622;FALSO
+ 'Oil Change Stations': 38;623;FALSO
+ 'Transmission Repair': 23;624;FALSO
+ 'Windshield Installation & Repair': 4;625;FALSO
+ 'Roadside Assistance': 26;626;FALSO
+ 'Battery Stores': 4;627;FALSO
+ 'Signmaking': 2;628;FALSO
+ 'Chiropractors': 52;629;FALSO
+ 'Wildlife Control': 5;630;FALSO
+ 'Pest Control': 94;631;FALSO
+ 'Parent Cafes': 4;632;FALSO
+ 'Mailbox Centers': 23;633;FALSO
+ 'Shipping Centers': 34;634;FALSO
+ 'Notaries': 15;635;FALSO
+ 'Security Systems': 22;636;FALSO
+ 'Laundromat': 11;637;FALSO
+ 'Laundry Services': 11;638;FALSO
+ 'Vocational & Technical School': 7;639;FALSO
+ 'Painters': 7;640;FALSO
+ 'Personal Injury Law': 4;641;FALSO
+ 'Business Law': 4;642;FALSO
+ 'Contract Law': 4;643;FALSO
+ 'Real Estate Law': 4;644;FALSO
+ 'Lawyers': 32;645;FALSO
+ 'Employment Law': 4;646;FALSO
+ 'Legal Services': 4;647;FALSO
+ 'Divorce & Family Law': 4;648;FALSO
+ 'General Litigation': 4;649;FALSO
+ 'Office Cleaning': 11;650;FALSO
+ 'Hypnosis/Hypnotherapy': 72;651;FALSO
+ 'Packing Services': 10;652;FALSO
+ 'Junk Removal & Hauling': 19;653;FALSO
+ 'Car Share Services': 10;654;FALSO
+ 'Heating & Air Conditioning/HVAC': 59;655;FALSO
+ 'Fireplace Services': 46;656;FALSO
+ 'Knife Sharpening': 18;657;FALSO
+ 'Lahmacun': 1;658;FALSO
+ 'Jails & Prisons': 3;659;FALSO
+ 'Fuzhou': 3;660;FALSO
+ 'Maternity Wear': 1;661;FALSO
+ 'Auto Customization': 60;662;FALSO
+ 'Auto Parts & Supplies': 151;663;FALSO
+ 'Municipality': 31;664;FALSO
+ 'Musical Instruments & Teachers': 2;665;FALSO
+ 'Bespoke Clothing': 2;666;FALSO
+ 'Oriental': 38;667;FALSO
+ 'Veterinarians': 45;668;FALSO
+ 'Electronics Repair': 21;669;FALSO
+ 'Leisure Centers': 55;670;FALSO
+ 'Recording & Rehearsal Studios': 269;671;FALSO
+ 'Wedding Chapels': 266;672;FALSO
+ 'Clothing Rental': 221;673;FALSO
+ 'Golf Cart Rentals': 13;674;FALSO
+ 'Sports Betting': 75;675;FALSO
+ 'Scottish': 256;676;FALSO
+ 'Eastern European': 7;677;FALSO
+ 'Day Camps': 10;678;FALSO
+ 'Ski Resorts': 71;679;FALSO
+ 'Kitchen Incubators': 41;680;FALSO
+ 'Tutoring Centers': 72;681;FALSO
+ 'Virtual Reality Centers': 18;682;FALSO
+ 'Farming Equipment': 4;683;FALSO
+ 'Snow Removal': 13;684;FALSO
+ 'Real Estate Agents': 23;685;FALSO
+ 'Real Estate Services': 24;686;FALSO
+ 'Libraries': 24;687;FALSO
+ 'Skate Parks': 5;688;FALSO
+ 'Buddhist Temples': 134;689;FALSO
+ 'Hakka': 24;690;FALSO
+ 'Estheticians': 6;691;FALSO
+ 'Internet Service Providers': 5;692;FALSO
+ 'University Housing': 4;693;FALSO
+ 'Zoos': 111;694;FALSO
+ 'Graphic Design': 3;695;FALSO
+ 'Elementary Schools': 7;696;FALSO
+ 'Emergency Rooms': 18;697;FALSO
+ 'Urologists': 13;698;FALSO
+ 'Dermatologists': 13;699;FALSO
+ 'Framing': 4;700;FALSO
+ 'Lawn Services': 319;701;FALSO
+ 'Landscaping': 342;702;FALSO
+ 'Hiking': 32;703;FALSO
+ 'Gymnastics': 2;704;FALSO
+ 'Sports Medicine': 17;705;FALSO
+ 'Sri Lankan': 23;706;FALSO
+ 'Dentists': 76;707;FALSO
+ 'General Dentistry': 19;708;FALSO
+ 'Religious Items': 21;709;FALSO
+ 'Firewood': 8;710;FALSO
+ 'Pet Photography': 18;711;FALSO
+ 'Life Coach': 7;712;FALSO
+ 'Outdoor Gear': 205;713;FALSO
+ 'Campgrounds': 54;714;FALSO
+ 'Fitness/Exercise Equipment': 11;715;FALSO
+ 'Physical Therapy': 23;716;FALSO
+ 'Gemstones & Minerals': 40;717;FALSO
+ 'Psychologists': 33;718;FALSO
+ 'Eyebrow Services': 21;719;FALSO
+ 'Psychiatrists': 9;720;FALSO
+ 'Neurologist': 9;721;FALSO
+ 'Family Practice': 11;722;FALSO
+ 'Leather Goods': 15;723;FALSO
+ 'Electricians': 1;724;FALSO
+ 'Funeral Services & Cemeteries': 5;725;FALSO
+ 'Apartments': 113;726;FALSO
+ 'Print Media': 16;727;FALSO
+ 'Paint-Your-Own Pottery': 6;728;FALSO
+ 'Internal Medicine': 3;729;FALSO
+ 'Diagnostic Imaging': 6;730;FALSO
+ 'Radiologists': 6;731;FALSO
+ 'Bookkeepers': 3;732;FALSO
+ 'Cosmetic Surgeons': 20;733;FALSO
+ 'Pain Management': 7;734;FALSO
+ 'Auction Houses': 318;735;FALSO
+ 'Towing': 107;736;FALSO
+ 'Calabrian': 140;737;FALSO
+ 'Hainan': 75;738;FALSO
+ 'Video Game Stores': 11;739;FALSO
+ 'Disc Golf': 1;740;FALSO
+ 'Crane Services': 31;741;FALSO
+ 'Vacation Rentals': 74;742;FALSO
+ 'Motorcycle Dealers': 115;743;FALSO
+ 'Public Art': 18;744;FALSO
+ 'Dumplings': 39;745;FALSO
+ 'Medical Cannabis Referrals': 8;746;FALSO
+ 'Cannabis Tours': 8;747;FALSO
+ 'Lighting Stores': 4;748;FALSO
+ 'Grill Services': 62;749;FALSO
+ 'Irrigation': 11;750;FALSO
+ 'Go Karts': 15;751;FALSO
+ 'Pressure Washers': 4;752;FALSO
+ 'Private Tutors': 24;753;FALSO
+ 'Septic Services': 31;754;FALSO
+ 'Fabric Stores': 5;755;FALSO
+ 'Audio/Visual Equipment Rental': 6;756;FALSO
+ 'Shredding Services': 11;757;FALSO
+ 'Printing Services': 43;758;FALSO
+ 'Utilities': 97;759;FALSO
+ 'Well Drilling': 97;760;FALSO
+ 'Financial Advising': 76;761;FALSO
+ 'Wheel & Rim Repair': 53;762;FALSO
+ 'Face Painting': 2;763;FALSO
+ 'Countertop Installation': 16;764;FALSO
+ 'Screen Printing/T-Shirt Printing': 21;765;FALSO
+ 'Kiosk': 19;766;FALSO
+ 'Horse Racing': 240;767;FALSO
+ 'Golf Equipment': 23;768;FALSO
+ 'Threading Services': 12;769;FALSO
+ 'Formal Wear': 42;770;FALSO
+ 'Spray Tanning': 14;771;FALSO
+ 'RV Parks': 116;772;FALSO
+ 'Session Photography': 14;773;FALSO
+ 'Serbo Croatian': 186;774;FALSO
+ 'Oral Surgeons': 57;775;FALSO
+ 'Home Theatre Installation': 10;776;FALSO
+ 'TV Mounting': 10;777;FALSO
+ 'Hair Stylists': 22;778;FALSO
+ 'IV Hydration': 8;779;FALSO
+ 'Costumes': 73;780;FALSO
+ 'Motorcycle Parts & Supplies': 55;781;FALSO
+ 'Motorcycle Gear': 55;782;FALSO
+ 'Watches': 67;783;FALSO
+ 'Flight Instruction': 77;784;FALSO
+ 'Guns & Ammo': 20;785;FALSO
+ 'Trains': 3;786;FALSO
+ 'Bocce Ball': 99;787;FALSO
+ 'Marketing': 48;788;FALSO
+ 'Trivia Hosts': 42;789;FALSO
+ 'Roofing': 18;790;FALSO
+ 'Solar Installation': 18;791;FALSO
+ 'Dance Studios': 7;792;FALSO
+ 'Kids Hair Salons': 15;793;FALSO
+ 'Piercing': 18;794;FALSO
+ 'Shoe Repair': 31;795;FALSO
+ 'Tonkatsu': 12;796;FALSO
+ 'Donburi': 12;797;FALSO
+ 'EV Charging Stations': 19;798;FALSO
+ 'Guamanian': 12;799;FALSO
+ 'Health Retreats': 1;800;FALSO
+ 'Plastic Surgeons': 7;801;FALSO
+ 'Professional Sports Teams': 8;802;FALSO
+ 'Cardio Classes': 11;803;FALSO
+ 'Pita': 10;804;FALSO
+ 'Cheese Tasting Classes': 21;805;FALSO
+ 'Dry Cleaning': 10;806;FALSO
+ 'Rolfing': 5;807;FALSO
+ 'Hindu Temples': 1;808;FALSO
+ 'Horse Boarding': 2;809;FALSO
