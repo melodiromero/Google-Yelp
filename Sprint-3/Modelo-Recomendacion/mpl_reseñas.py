@@ -24,7 +24,7 @@ nltk.download('stopwords')
 # ruta_del_archivo_gcs = 'gs://top-vial-398602/Output-tables/Tablas_consolidadas_anuales/2021.parquet'
 
 # Carga el archivo Parquet desde Google Cloud Storage en un DataFrame de Pandas - Datos consolidados
-dataset = pd.read_parquet('Output-tables_Tablas_consolidadas_anuales_2022.parquet')
+dataset = pd.read_parquet('data.parquet')
 
 dataset = dataset[(dataset['rating'] == 5) & (dataset['text'] != '') & (dataset['num_of_reviews'] > 2000)] # Recorte de datos
 
