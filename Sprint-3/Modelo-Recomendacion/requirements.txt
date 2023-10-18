@@ -127,10 +127,4 @@ typing_extensions
 tzdata
 tzlocal
 urllib3
-validators
-vboxapi
-visions
-watchdog
-wcwidth
-yarl
-zipp
+
